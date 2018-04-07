@@ -28,7 +28,7 @@ If you encounter a bug while using PVKII, first search the [issue list](https://
 If it has not been reported, create a new issue with at least the following information:
 
 - a short, descriptive title;
-- your game version (can be found in the bottom right corner of the main menu)
+- your game version (can be found by hovering your mouse over the PVKII logo in the main menu)
 - a detailed description of the issue, including any output from the console/command line;
 - steps for reproducing the issue; and
 - your [system information](#system-information).
