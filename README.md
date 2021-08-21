@@ -1,9 +1,9 @@
 Pirates, Vikings, and Knights II
 ==============
 
-This repository is for submitting bugs and issues for the Source game Pirates, Vikings, &amp; Knights II. (http://store.steampowered.com/app/17570)
+This repository is for submitting bugs and issues for the Source game [Pirates, Vikings, &amp; Knights II](http://store.steampowered.com/app/17570).
 
-If you have a more general problem or a gameplay question, please use the [Help and Support forums](http://steamcommunity.com/app/17570/discussions/1/) instead, or join our Discord at https://discord.gg/pvkii.
+If you have a more general problem or a gameplay question, please use the [Help and Support forums](http://steamcommunity.com/app/17570/discussions/1/) instead, or join our [Discord](https://discord.gg/pvkii).
 
 Conduct
 -------
@@ -16,14 +16,10 @@ There are basic rules of conduct that should be followed at all times by everyon
 - Do not repeatedly update an open issue remarking that the issue persists.
 - Do not use exploits for your own gain, this tracker is up in goodwill to allow the public to help the dev team out with bug reporting.
 
-Remember: PVKII is being developed in our freetime, and therefore your issue might not be reviewed/resolved immediately. Please be patient.
-
-
 Reporting Issues
 ----------------
 
 If you encounter a bug while using PVKII, first search the [issue list](https://github.com/Octoshark/pvkii/issues) to see if it has already been reported. Include closed issues in your search.
-
 
 If it has not been reported, create a new issue with at least the following information:
 
